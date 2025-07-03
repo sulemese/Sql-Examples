@@ -1,6 +1,6 @@
 # SQL Konular ve Örnekler
 
-Bu repo, SQL öğrenenler için temel konuları ve her konuyla ilgili örnek SQL sorgularını içerir.
+Bu repo, Murat Yücedağ - Sorgularla Adım Adım SQL Veri Tabanı Programlama kursunda  yapılan örneklerle ilgili notları içermektedir. 
 
 ## İçerik
 
