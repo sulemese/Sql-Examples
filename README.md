@@ -1,8 +1,7 @@
-# SQL Konular ve Örnekler
 
-Bu repo, Murat Yücedağ - Sorgularla Adım Adım SQL Veri Tabanı Programlama kursunda  yapılan örneklerle ilgili notları içermektedir. 
 
 ## İçerik
+Bu repo, Murat Yücedağ - Sorgularla Adım Adım SQL Veri Tabanı Programlama kursunda  yapılan örneklerle ilgili notları içermektedir. 
 
 
 ## Kullanım
